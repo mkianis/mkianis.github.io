@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! Welcome to my website! I am a geoscientist passionate about the Earth dynamics. I develop mathematical tools to investigate geodetic and geophysical problems. Topics of interest include machine learning, Earth rotation variations, Earth system modelling (climate, atmosphere, ocean, mantle and core), geophysical fluid dynamics. [I am currently a PhD student at ETH Zürich](https://space.igp.ethz.ch/people/person-detail.Mjc5NDM0.TGlzdC8zNzY0LC0xNTYwNTYzOTU1.html).
 
-You can look at the full list of my publication on my [Google Scholar](https://scholar.google.com/citations?user=qCI0O08AAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Mostafa-Kiani-Shahvandi).
+You can look at the full list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=qCI0O08AAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Mostafa-Kiani-Shahvandi).
