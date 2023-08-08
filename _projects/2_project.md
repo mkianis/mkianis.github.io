@@ -23,5 +23,5 @@ The methodologies, descriptions, and predictions are provided operationally on [
     </div>
 </div>
 <div class="caption">
-    An example of the prediction accuracy in terms of mean absolute error.
+    An example of the prediction accuracy of AAM, in terms of mean absolute error.
 </div>
