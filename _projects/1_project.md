@@ -8,6 +8,8 @@ category: work
 related_publications: Kiani_JGR, Kiani_ASR, Kiani_JOGE
 ---
 
+In this project, we provide the predictions of Earth Orientation Parameters (EOPs) with different forecasting horizon, up to one year ahead. The predictions are provided operationally on [ETH Zürich Geodetic Prediction Center](https://gpc.ethz.ch/) 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
