@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A list of my most recent publications is given below. For the full list, please visit my <a href="https://scholar.google.com/citations?hl=en&user=qCI0O08AAAAJ" style="color:#0000FF;"> Google Scholar </a> and <a href="https://www.researchgate.net/profile/Mostafa-Kiani-Shahvandi" style="color:#0000FF;"> Researchgate </a> profiles.
+description: A list of my most recent publications is given below. For the full list, please visit my <a href="https://scholar.google.com/citations?hl=en&user=qCI0O08AAAAJ" style="color:#0000FF;"> Google Scholar </a> profile.
 nav: true
 nav_order: 1
 ---
