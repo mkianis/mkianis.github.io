@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: The courses that I have been involved in teaching. For mor information see my CV.
+description: The courses that I have been involved in teaching. For more information, please see my CV.
 nav: true
 nav_order: 5
 ---
