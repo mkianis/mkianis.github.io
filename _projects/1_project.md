@@ -16,6 +16,6 @@ In this project, we provide the predictions of Earth Orientation Parameters (EOP
     </div>
 </div>
 <div class="caption">
-    An example of the predictions made by our algorithms. Please access the data on [Geodetic Prediction Center](https://gpc.ethz.ch/EOP/)
+    An example of the predictions made by our algorithms. Please access the data on [Geodetic Prediction Center](https://gpc.ethz.ch/EOP/).
 </div>
 
