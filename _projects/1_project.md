@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: Prediction of Earth Orientation Parameters
+title: Prediction of Earth Orientation Parameters
+description: Prediction of length of day, dUT1, polar motion, and celestial pole offsets
 img: assets/img/GPC.jpg
 importance: 1
 category: work
