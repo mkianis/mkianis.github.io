@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: The courses that I have been involved in teaching.
+description: The courses that I have been involved in teaching. For mor information see my CV.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+1. Geodetic Networks, University of Tehran
+2. Gravity Field, ETH Zürich
+3. Space Geodesy, ETH Zürich
