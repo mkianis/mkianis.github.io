@@ -15,7 +15,7 @@ In this project, we provide the predictions of Earth Orientation Parameters (EOP
 3. polar motion
 4. celestial pole offsets (related to precession and nutation)
 
-The methodologies, descriptions, and predictions are provided operationally on [ETH Zürich Geodetic Prediction Center](https://gpc.ethz.ch/).
+The methodologies, descriptions, and predictions are provided operationally on [ETH Zürich Geodetic Prediction Center](https://gpc.ethz.ch/EOP/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
