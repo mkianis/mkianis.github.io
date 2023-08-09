@@ -23,6 +23,6 @@ The methodologies, descriptions, and predictions are provided operationally on [
     </div>
 </div>
 <div class="caption">
-    An example of the predictions made by our algorithms.
+    An example of the length of day predictions made by our various algorithms and their comaprisons.
 </div>
 
