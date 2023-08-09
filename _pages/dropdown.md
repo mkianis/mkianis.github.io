@@ -5,11 +5,8 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: divider
     - title: about
       permalink: /about/
-    - title: blog
-      permalink: /blog/
     - title: publications
       permalink: /publications/
     - title: projects
