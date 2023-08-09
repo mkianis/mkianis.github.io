@@ -1,37 +1,37 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mostafa Kiani Shahvandi",
+    "label": "Earth Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mkiani@ethz.ch",
+    "phone": "+41 44 633 67 82",
+    "url": "https://space.igp.ethz.ch/people/",
+    "summary": "A geoscientist passionate about Earth system modelling.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Robert-Gnehm-Weg 15",
+      "postalCode": "8093",
+      "city": "Zürich",
+      "countryCode": "Switzerland",
+      "region": "Zürich"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Researchgate",
+        "username": "Mostafa Kiani Shahvandi",
+        "url": "https://www.researchgate.net/profile/Mostafa-Kiani-Shahvandi"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Institute of Geodesy and Photogrammetry, ETH Zürich",
+      "position": "PhD student",
+      "url": "https://www.researchgate.net/profile/Mostafa-Kiani-Shahvandi",
+      "startDate": "2020-10-01",
+      "endDate": "2024-10-01",
+      "summary": "Working on designing and implementing machine learning algorithms for the geodetic and geophysical problems.",
       "highlights": [
-        "Relativity"
+        "space geodesy"
       ]
     }
   ],
