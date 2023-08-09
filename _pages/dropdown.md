@@ -5,9 +5,19 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
+    - title: divider
+    - title: about
+      permalink: /about/
+    - title: blog
+      permalink: /blog/
     - title: publications
       permalink: /publications/
-    - title: divider
     - title: projects
       permalink: /projects/
+    - title: repositories
+      permalink: /repositories/
+    - title: cv
+      permalink: /cv/
+    - title: teaching
+      permalink: /teaching/
 ---
