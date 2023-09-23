@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: The courses that I have been involved in teaching. I have also supervised several thesis and projects. For more information, please see my CV.
+description: The courses that I have been involved in teaching. I have also supervised several theses and projects. For more information, please see my CV.
 nav: true
 nav_order: 5
 ---
