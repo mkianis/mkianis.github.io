@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Meteorology and Geophysics</p>
-    <p>Holaubek-Platz II</p>
+    <p>Holaubek-Platz 2</p>
     <p>1090 Wien, Austria</p>
 
 news: true  # includes a list of news items
